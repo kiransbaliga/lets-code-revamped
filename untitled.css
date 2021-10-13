@@ -1,0 +1,18 @@
+img {
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+
+imgch {
+  transition: .5s ease;
+  box-shadow: 0px 2px 10px rgba(0,0,0,.15);
+}
+
+imgch {
+  transform: scale(1.05);
+  box-shadow: 0px 10px 10px rgba(0,0,0,.15) !important;
+  width: 400px;
+  height: 300px;
+}
+
